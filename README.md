@@ -1,8 +1,6 @@
-# assignment4
+# Assignment 4 Objectives
 
-## Assignment Objectives
-
-- Create Github repository called `assignment4`
+- Create GitHub repository called `assignment4`
 - Create three files:
   - Containerfile
   - myinfo.html
